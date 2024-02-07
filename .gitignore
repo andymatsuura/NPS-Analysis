@@ -13,10 +13,7 @@ _pycache_
 .ipynb_checkpoints/
 __pycache__/
 config.py
-..\Resources\np_location.csv
-ashley_yosemite.ipynb
-np_income.ipynb
-nps_api.ipynb
+
 
 # Distribution / packaging
 .Python
