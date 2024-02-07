@@ -2,4 +2,4 @@
 .ipynb_checkpoints/
 __pycache__/
 config.py
-.\Resources\np_location.csv
+..\Resources\np_location.csv
