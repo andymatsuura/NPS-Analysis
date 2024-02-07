@@ -9,6 +9,15 @@ _pycache_
 # C extensions
 *.so
 
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+config.py
+..\Resources\np_location.csv
+ashley_yosemite.ipynb
+np_income.ipynb
+nps_api.ipynb
+
 # Distribution / packaging
 .Python
 build/
