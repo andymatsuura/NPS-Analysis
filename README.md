@@ -20,6 +20,7 @@ https://www.vice.com/en/article/mg9b7v/national-park-employees-tell-us-about-the
 https://onlabor.org/national-parks-are-swamped-but-the-park-service-faces-mountainous-employment-crises/
 https://www.jec.senate.gov/public/index.cfm/democrats/issue-briefs?ID=529B62AD-E178-4BC6-BBC5-E50646AE08D6#:~:text=In%20fiscal%20year%202022%2C%20appropriations,growth%20amid%20other%20economic%20benefits.
 https://www.nationalparkstraveler.org/2018/02/national-park-system-2017-visitation-essentially-flat
+https://www.nationalparks.org/connect/blog/how-are-national-parks-funded#:~:text=The%20National%20Park%20Service%20is,as%20well%20as%20private%20philanthropy.
 
 
 Data Used: 
