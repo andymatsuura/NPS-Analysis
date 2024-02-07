@@ -13,7 +13,11 @@ This project analyses data from the national park service to analyse trends in v
 Works Cited:
 https://www.nps.gov/grsm/learn/news/second-busiest-year-ever-recorded-at-great-smoky-mountains-national-park-in-2022.htm
 https://www.nps.gov/aboutus/index.htm#:~:text=Follow%20Us-,Our%20Mission,of%20this%20and%20future%20generations.
+https://www.vice.com/en/article/mg9b7v/national-park-employees-tell-us-about-the-human-cost-of-trumps-hiring-freeze
+https://onlabor.org/national-parks-are-swamped-but-the-park-service-faces-mountainous-employment-crises/
+https://www.jec.senate.gov/public/index.cfm/democrats/issue-briefs?ID=529B62AD-E178-4BC6-BBC5-E50646AE08D6#:~:text=In%20fiscal%20year%202022%2C%20appropriations,growth%20amid%20other%20economic%20benefits.
 
 Data Used: 
 https://irma.nps.gov/Stats/Reports/Home - for reports on national park usage
 https://www.nps.gov/subjects/developer/api-documentation.htm#/ - for data on activities, locations.
+https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htmhttps://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - for 2022 reports on nps income, jobs, economic outout
