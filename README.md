@@ -1,9 +1,8 @@
 Goals
 The National Parks hold some of the most beautiful land in the country. Has there been growth in visitation fueled by the pandemic? We think so.
-The parks are at the forefront of a seemingly booming outdoor recreation industry. We think that higher visitation creates more economic benefit, but will the data back it up? 
+How much money does a national park bring in? We think that higher visitation creates more economic benefit, but will the data back it up? 
 How does the season affect the amount of people you might encounter on your visit? When would be the best time to plan a visit? 
 What is the best national park to visit based upon where you live? If a park is not an option, are there other cool places to visit?
-Why do people go to national parks? Let's find out!
 
 Background
 
