@@ -2,7 +2,11 @@
 0,Acadia National Park,44.409286,-68.247501,46.0
 1,Arches National Park,38.72261844,-109.5863666,18.0
 2,Badlands National Park,43.68584846,-102.482942,21.0
+<<<<<<< HEAD
 3,Big Bend National Park,29.29817767,-103.2297897,25.0
+=======
+3,Big Bend National Park,29.29817767,-103.2297897,24.0
+>>>>>>> ashley
 4,Biscayne National Park,25.490587,-80.21023851,24.0
 5,Black Canyon Of The Gunnison National Park,38.57779869,-107.7242756,13.0
 6,Bryce Canyon National Park,37.58399144,-112.1826689,30.0
