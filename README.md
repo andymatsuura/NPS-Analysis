@@ -28,7 +28,7 @@ The National Park Service has a simple mission. "The National Park Service prese
 
   ![annoate_vistation_income_20213-22](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/0ae7ea9a-2635-4583-8ee7-33b19372735c)
 
-* Every year, there is growth of approximately 700 million dollars. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
+* Every year, there is growth of approximately 700 million dollars from visitor spending alone. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
   
   ![annotate_spending_trend](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/a01db253-5468-4c82-83dc-ce2f410a2062)
 
