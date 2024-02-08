@@ -33,4 +33,4 @@ https://chinadialogue.net/en/nature/lessons-from-the-rush-to-reforest/
 
 https://irma.nps.gov/Stats/Reports/Home - for reports on national park usage
 https://www.nps.gov/subjects/developer/api-documentation.htm#/ - for data on activities, locations.
-https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htmhttps://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - for 2022 reports on nps income, jobs, economic outout
+https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - for 2022 reports on nps income, jobs, economic outout
