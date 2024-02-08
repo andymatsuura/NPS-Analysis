@@ -24,9 +24,13 @@ The National Park Service has a simple mission. "The National Park Service prese
   ![visitation_jobs_2013_2022 copy](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/557e439b-bb55-4cd3-b425-9961556bec6c)
 
 * How much money do the national parks bring in? We think that higher visitation creates more economic benefit, but will the data back it up? 
-* In 2022, the NPS contributed 50.3 billion dollars to the economy through visitor spending, donors and corporate partners. The park service cited that 1 dollar invested in the NPS provides a $10 boost to the economy (jec.senate). Every year, there is growth of approximately 700 million dollars. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
+* In 2022, the NPS contributed 50.3 billion dollars to the economy through visitor spending, donors and corporate partners. The park service cited that 1 dollar invested in the NPS provides a $10 boost to the economy (jec.senate).
 
   ![annoate_vistation_income_20213-22](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/0ae7ea9a-2635-4583-8ee7-33b19372735c)
+
+* Every year, there is growth of approximately 700 million dollars. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
+  
+  ![annotate_spending_trend](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/a01db253-5468-4c82-83dc-ce2f410a2062)
 
 * How does the season affect the amount of people you might encounter on your visit? When would be the best time to plan a visit? 
 * It was hard to find data by the season for the entire national parks, but summer is the most popular time to visit Yosemite. This is a park that is familiar to us in California. There are less visitors in the winter, so it could be a good time to visit, though you will encounter snow and possible bad weather. The spring and fall are your best bet for less crowds and mild conditions.
