@@ -11,6 +11,12 @@ AM_working_file.ipynb
 # C extensions
 *.so
 
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+config.py
+
+
 # Distribution / packaging
 .Python
 build/
