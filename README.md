@@ -1,9 +1,9 @@
-Goals
+# Goals 
 
-The National Parks hold some of the most beautiful land in the country. Has there been growth in visitation fueled by the pandemic? We think so.
-How much money does a national park bring in? We think that higher visitation creates more economic benefit, but will the data back it up? 
-How does the season affect the amount of people you might encounter on your visit? When would be the best time to plan a visit? 
-What is the best national park to visit based upon where you live? If a park is not an option, are there other cool places to visit?
+* The National Parks hold some of the most beautiful land in the country. Has there been growth in visitation fueled by the pandemic? We think so.
+* How much money does a national park bring in? We think that higher visitation creates more economic benefit, but will the data back it up? 
+* How does the season affect the amount of people you might encounter on your visit? When would be the best time to plan a visit? 
+* What is the best national park to visit based upon where you live? If a park is not an option, are there other cool places to visit?
 
 Background
 
@@ -12,7 +12,7 @@ The National Park Service has a simple mission. "The National Park Service prese
 This project analyses data from the national park service to analyse trends in visitation across the years to investigate these questions further. 
 
 
-Works Cited:
+# Works Cited:
 
 https://www.nps.gov/grsm/learn/news/second-busiest-year-ever-recorded-at-great-smoky-mountains-national-park-in-2022.htm
 https://www.nps.gov/aboutus/index.htm#:~:text=Follow%20Us-,Our%20Mission,of%20this%20and%20future%20generations.
@@ -21,9 +21,11 @@ https://onlabor.org/national-parks-are-swamped-but-the-park-service-faces-mounta
 https://www.jec.senate.gov/public/index.cfm/democrats/issue-briefs?ID=529B62AD-E178-4BC6-BBC5-E50646AE08D6#:~:text=In%20fiscal%20year%202022%2C%20appropriations,growth%20amid%20other%20economic%20benefits.
 https://www.nationalparkstraveler.org/2018/02/national-park-system-2017-visitation-essentially-flat
 https://www.nationalparks.org/connect/blog/how-are-national-parks-funded#:~:text=The%20National%20Park%20Service%20is,as%20well%20as%20private%20philanthropy.
+https://www.theguardian.com/environment/2022/jan/01/national-parks-us-tourism-crowds-busy
+https://chinadialogue.net/en/nature/lessons-from-the-rush-to-reforest/
 
 
-Data Used: 
+# Data Used: 
 
 https://irma.nps.gov/Stats/Reports/Home - for reports on national park usage
 https://www.nps.gov/subjects/developer/api-documentation.htm#/ - for data on activities, locations.
