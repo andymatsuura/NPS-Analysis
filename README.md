@@ -38,6 +38,6 @@ https://chinadialogue.net/en/nature/lessons-from-the-rush-to-reforest/
 
 # Data Used: 
 
-https://irma.nps.gov/Stats/Reports/Home - for reports on national park usage
-https://www.nps.gov/subjects/developer/api-documentation.htm#/ - for data on activities, locations.
-https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - for 2022 reports on nps income, jobs, economic outout
+https://irma.nps.gov/Stats/Reports/Home - mutiple csv for reports on national park (visitation from 1904 to 2022)
+https://www.nps.gov/subjects/developer/api-documentation.htm#/ - NPS' api with data on national park site names, location, acivities (gathered 451 rows of data)
+https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - csv for 2022 reports on nps income, jobs, economic outout
