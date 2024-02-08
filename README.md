@@ -19,7 +19,9 @@ The National Park Service has a simple mission. "The National Park Service prese
 ![annotate_vistation_income_20213-22 copy](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/8ddd36ec-7229-4e48-ac0f-9f1e7b54d0dc)
 
 * It was hard to find data by the season for the entire national parks, but summer is the most popular time to visit Yosemite. This is a park that is familiar to us in California. There are less visitors in the winter, so it could be a good time to visit, though you will encounter snow and possible bad weather. The spring and fall are your best bet for less crowds and mild conditions. 
-* Hawaii and Alaska seem like outliers for visitation, with their geographic isolation. The intermountain and pacific west regions seemed to be the most popular, and many parks seemed skewed towards the west side of the country. There were very few parks on the east coast, but it held the most popular park in the country, Great Smoky Mountains National Park. This park had extreme growth since inception. We found that there was a dip in 1989 in Acadia and Great Smokys, possibly due to changes in counting methods (MDIslander). Covid dip was apparent in 2020 in these popular parks, but Great Smokys experienced a sharp increase! The hvplot used dots based on volume of visitation. 
+* Hawaii and Alaska seem like outliers for visitation, with their geographic isolation. The intermountain and pacific west regions seemed to be the most popular, and many parks seemed skewed towards the west side of the country. There were very few parks on the east coast, but it held the most popular park in the country, Great Smoky Mountains National Park. This park had extreme growth since inception. We found that there was a dip in 1989 in Acadia and Great Smokys, possibly due to changes in counting methods (MDIslander). Covid dip was apparent in 2020 in these popular parks, but Great Smokys experienced a sharp increase! The hvplot used dots based on volume of visitation.
+ <img width="968" alt="annotate_hvplot" src="https://github.com/andymatsuura/NPS-Analysis/assets/150317761/a46f2958-673c-4b09-8e1a-e263f7e9821b">
+
 
 # Works Cited:
 
