@@ -11,33 +11,39 @@ The National Park Service has a simple mission. "The National Park Service prese
 
 # Analysis
 
-* There was a significant decrease in visitation in 2020, as a result of the lockdowns, but in 2021 parks recieved record visitation. This has put a strain on the park system and the communities they are in. 870,000 new visitors come to the parks every year, and the rate of increase is getting higher. "Interviews with park supervisors, staff and guests paint a picture of a system under increasing strain and struggling to adapt to this new reality" (The Guardian 2021). People were more willing to travel and were possibly tired of being stuck inside all of the time. So initially, covid had a negative impact on park visitors, but when lockdowns started to ease people were eager to get out there. We noticed a sharp increase in visitation since 2015. It's possible that being able to share your experiences so easily made the appeal to be in beautiful places increased.
+* There was a significant decrease in visitation in 2020, as a result of the lockdowns, but in 2021 parks received record visitation. This has put a strain on the park system and the communities they are in. 870,000 new visitors come to the parks every year, and the rate of increase is getting higher. "Interviews with park supervisors, staff and guests paint a picture of a system under increasing strain and struggling to adapt to this new reality" (The Guardian 2021). People were more willing to travel and were possibly tired of being stuck inside all of the time. So initially, covid had a negative impact on park visitors, but when lockdowns started to ease people were eager to get out there. We noticed a sharp increase in visitation since 2015. It's possible that being able to share your experiences through social media so easily made the appeal to be in beautiful places increased. Gaining on average 870,000 new visitors every year, the parks service will have to adapt going forward
+  ![total_annual_visits annotated](https://github.com/andymatsuura/NPS-Analysis/assets/150174589/368a9914-32cb-4de6-92a1-6c92b240472c)
+
+  ![trend_over_time](https://github.com/andymatsuura/NPS-Analysis/assets/150174589/ac04993a-97b8-44d8-a9a8-dbe75273c126)
+
 * In 2017, Trump instated a federal hiring freeze, thus parks were not able to hire new employees (Vice). We noticed the downwards trend in jobs that year. Less employees combined with higher visitation created stress on the park system (On Labor). Housing is unaffordable for park employees, further exacerbating staffing issues.
 ![visitation_jobs_2013_2022 copy](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/557e439b-bb55-4cd3-b425-9961556bec6c)
 
-* In 2022, the NPS earned 3.3 billion dollars through visitor spending, donors and corporate partners. The park service cited that 1 dollar invested in the NPS provides a $10 boost to the economy. Every year, there is growth of approximately 700 million dollars. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
+* In 2022, the NPS earned 3.3 billion dollars through visitor spending, donors and corporate partners. The park service cited that 1 dollar invested in the NPS provides a $10 boost to the economy (jec.senate). Every year, there is growth of approximately 700 million dollars. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
 ![annotate_vistation_income_20213-22 copy](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/8ddd36ec-7229-4e48-ac0f-9f1e7b54d0dc)
 
-* It was hard to find data by the season for the entire national parks, but summer is the most popular time to visit Yosemite. This is a park that is familiar to us in California. There are less visitors in the winter, so it could be a good time to visit, though you will encounter snow and possible bad weather. The spring and fall are your best bet for less crowds and mild conditions. 
+* It was hard to find data by the season for the entire national parks, but summer is the most popular time to visit Yosemite. This is a park that is familiar to us in California. There are less visitors in the winter, so it could be a good time to visit, though you will encounter snow and possible bad weather. The spring and fall are your best bet for less crowds and mild conditions.
+  ![seasonal_visitors_yosemite](https://github.com/andymatsuura/NPS-Analysis/assets/150174589/e0b2e334-854c-4511-a2f1-68291a17fe6f)
+
 * Hawaii and Alaska seem like outliers for visitation, with their geographic isolation. The intermountain and pacific west regions seemed to be the most popular, and many parks seemed skewed towards the west side of the country. There were very few parks on the east coast, but it held the most popular park in the country, Great Smoky Mountains National Park. This park had extreme growth since inception. We found that there was a dip in 1989 in Acadia and Great Smokys, possibly due to changes in counting methods (MDIslander). Covid dip was apparent in 2020 in these popular parks, but Great Smokys experienced a sharp increase! The hvplot used dots based on volume of visitation.
  <img width="968" alt="annotate_hvplot" src="https://github.com/andymatsuura/NPS-Analysis/assets/150317761/a46f2958-673c-4b09-8e1a-e263f7e9821b">
-
+![top_parks annotated](https://github.com/andymatsuura/NPS-Analysis/assets/150174589/71801826-5087-4295-a672-7155bcbedbcb)
 
 # Works Cited:
 
-https://www.nps.gov/grsm/learn/news/second-busiest-year-ever-recorded-at-great-smoky-mountains-national-park-in-2022.htm
-https://www.nps.gov/aboutus/index.htm#:~:text=Follow%20Us-,Our%20Mission,of%20this%20and%20future%20generations.
-https://www.vice.com/en/article/mg9b7v/national-park-employees-tell-us-about-the-human-cost-of-trumps-hiring-freeze
-https://onlabor.org/national-parks-are-swamped-but-the-park-service-faces-mountainous-employment-crises/
-https://www.jec.senate.gov/public/index.cfm/democrats/issue-briefs?ID=529B62AD-E178-4BC6-BBC5-E50646AE08D6#:~:text=In%20fiscal%20year%202022%2C%20appropriations,growth%20amid%20other%20economic%20benefits.
-https://www.nationalparkstraveler.org/2018/02/national-park-system-2017-visitation-essentially-flat
-https://www.nationalparks.org/connect/blog/how-are-national-parks-funded#:~:text=The%20National%20Park%20Service%20is,as%20well%20as%20private%20philanthropy.
-https://www.theguardian.com/environment/2022/jan/01/national-parks-us-tourism-crowds-busy
-https://chinadialogue.net/en/nature/lessons-from-the-rush-to-reforest/
+*https://www.nps.gov/grsm/learn/news/second-busiest-year-ever-recorded-at-great-smoky-mountains-national-park-in-2022.htm
+*https://www.nps.gov/aboutus/index.htm#:~:text=Follow%20Us-,Our%20Mission,of%20this%20and%20future%20generations.
+*https://www.vice.com/en/article/mg9b7v/national-park-employees-tell-us-about-the-human-cost-of-trumps-hiring-freeze
+*https://onlabor.org/national-parks-are-swamped-but-the-park-service-faces-mountainous-employment-crises/
+*https://www.jec.senate.gov/public/index.cfm/democrats/issue-briefs?ID=529B62AD-E178-4BC6-BBC5-E50646AE08D6#:~:text=In%20fiscal%20year%202022%2C%20appropriations,growth%20amid%20other%20economic%20benefits.
+*https://www.nationalparkstraveler.org/2018/02/national-park-system-2017-visitation-essentially-flat
+*https://www.nationalparks.org/connect/blog/how-are-national-parks-funded#:~:text=The%20National%20Park%20Service%20is,as%20well%20as%20private%20philanthropy.
+*https://www.theguardian.com/environment/2022/jan/01/national-parks-us-tourism-crowds-busy
+*https://chinadialogue.net/en/nature/lessons-from-the-rush-to-reforest/
 
 
 # Data Used: 
 
-https://irma.nps.gov/Stats/Reports/Home - mutiple csv for reports on national park (visitation from 1904 to 2022)
-https://www.nps.gov/subjects/developer/api-documentation.htm#/ - NPS' api with data on national park site names, location, acivities (gathered 451 rows of data)
-https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - csv for 2022 reports on nps income, jobs, economic outout
+*https://irma.nps.gov/Stats/Reports/Home - mutiple csv for reports on national park (visitation from 1904 to 2022)
+*https://www.nps.gov/subjects/developer/api-documentation.htm#/ - NPS' api with data on national park site names, location, acivities (gathered 451 rows of data)
+*https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - csv for 2022 reports on nps income, jobs, economic output
