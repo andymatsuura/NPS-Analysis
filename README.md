@@ -24,7 +24,7 @@ The National Park Service has a simple mission. "The National Park Service prese
 
 * How much money do the national parks bring in? We think that higher visitation creates more economic benefit, but will the data back it up? 
 * In 2022, the NPS contributed 50.3 billion dollars to the economy through visitor spending, donors and corporate partners. The park service cited that 1 dollar invested in the NPS provides a $10 boost to the economy (jec.senate). Every year, there is growth of approximately 700 million dollars. This data could be skewed because of the covid dip in 2020 (nationalparks.org).
-![annotate_vistation_income_20213-22 copy](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/8ddd36ec-7229-4e48-ac0f-9f1e7b54d0dc)
+![annoate_vistation_income_20213-22](https://github.com/andymatsuura/NPS-Analysis/assets/150317761/0ae7ea9a-2635-4583-8ee7-33b19372735c)
 
 * How does the season affect the amount of people you might encounter on your visit? When would be the best time to plan a visit? 
 * It was hard to find data by the season for the entire national parks, but summer is the most popular time to visit Yosemite. This is a park that is familiar to us in California. There are less visitors in the winter, so it could be a good time to visit, though you will encounter snow and possible bad weather. The spring and fall are your best bet for less crowds and mild conditions.
@@ -34,8 +34,8 @@ The National Park Service has a simple mission. "The National Park Service prese
 * Hawaii and Alaska seem like outliers for visitation, with their geographic isolation. The intermountain and pacific west regions seemed to be the most popular, and many parks seemed skewed towards the west side of the country. There were fewer parks on the east coast, but it held the most popular park in the country, Great Smoky Mountains National Park. The hvplot used dots based on volume of visitation.
  <img width="968" alt="annotate_hvplot" src="https://github.com/andymatsuura/NPS-Analysis/assets/150317761/a46f2958-673c-4b09-8e1a-e263f7e9821b">
 
-* Great Smoky Mountain National Park had extreme growth since inception. We found that there was a dip in 1989 in Acadia and Great Smokys, possibly due to changes in counting methods (MDIslander). Covid dip was apparent in 2020 in these popular parks, but Great Smokys experienced a sharp increase! 
- ![top_parks annotated](https://github.com/andymatsuura/NPS-Analysis/assets/150174589/1d64a0fb-90be-4fcb-8132-65056dca3829)
+* Great Smoky Mountain National Park had extreme growth since inception. We found that there was a dip in 1989 in Acadia and Great Smokys, possibly due to changes in counting methods (MDIslander). Covid dip was apparent in 2020 in these popular parks, but Great Smokys experienced a sharp increase!
+  ![top_parks annotated](https://github.com/andymatsuura/NPS-Analysis/assets/150174589/1d64a0fb-90be-4fcb-8132-65056dca3829)
 
 # Conclusion
 
@@ -64,5 +64,5 @@ The National Park Service has a simple mission. "The National Park Service prese
 # Data Used: 
 
 *https://irma.nps.gov/Stats/Reports/Home - mutiple csv for reports on national park (visitation from 1904 to 2022)
-*https://www.nps.gov/subjects/developer/api-documentation.htm#/ - NPS' api with data on national park site names, location, acivities (gathered 451 rows of data)
+*https://www.nps.gov/subjects/developer/api-documentation.htm#/ - NPS' api with data on national park site names, location, activities (gathered 451 rows of data)
 *https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - csv for 2022 reports on nps income, jobs, economic output
