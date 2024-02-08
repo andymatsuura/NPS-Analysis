@@ -4,8 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 apikeys.py 
+*.py
 .ipynb_checkpoints
 _pycache_
+AM_working_file.ipynb
 # C extensions
 *.so
 
