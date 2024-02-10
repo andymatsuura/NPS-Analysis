@@ -72,6 +72,6 @@ The National Park Service has a simple mission. "The National Park Service prese
 
 # Data Used: 
 
-* https://irma.nps.gov/Stats/Reports/Home - mutiple csv for reports on national park (visitation from 1904 to 2022)
+* https://irma.nps.gov/Stats/Reports/Home - mutiple csv for reports on national park (visitation from 1904 to 2022) filtered multiple csv's with up to 80,000 rows of data
 * https://www.nps.gov/subjects/developer/api-documentation.htm#/ - NPS' api with data on national park site names, location, activities (gathered 451 rows of data)
 * https://www.nps.gov/orgs/1207/national-park-visitation-sets-new-record-as-economic-engines.htm - 2022 reports on nps income, jobs, economic output
